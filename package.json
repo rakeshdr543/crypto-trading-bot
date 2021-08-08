@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
+    "ccxt": "^1.54.60",
     "dotenv": "^10.0.0"
   }
 }
